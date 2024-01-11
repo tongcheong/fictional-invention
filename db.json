@@ -9,26 +9,6 @@
       "bet": "Wigan+2",
       "final_score": "0-0",
       "profit_loss": "100"
-    },
-    {
-      "name": "Fulham v Liverpool",
-      "date": "2024-01-09 04:00 GMT",
-      "league": "FA Cup",
-      "handicap": "Fulham+1.5",
-      "amount": "$50",
-      "bet": "Fulham+1.5",
-      "final_score": "0-0",
-      "profit_loss": "200"
-    },
-    {
-      "name": "Hull City v Manchester City",
-      "date": "2024-01-09 04:00 GMT",
-      "league": "FA Cup",
-      "handicap": "City -3.5",
-      "amount": "$200",
-      "bet": "City -3.5",
-      "final_score": "1-0",
-      "profit_loss": "100"
-    }
+    }  
   ]
 }
