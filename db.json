@@ -8,7 +8,7 @@
     amount: "$100",
     bet: "Wigan+2",
     final_score: "0-0",
-    profit_loss: "100",
+    profit_loss: "100"
   },
   {
     name: "Fulham v Liverpool",
@@ -18,7 +18,7 @@
     amount: "$50",
     bet: "Fulham+1.5",
     final_score: "0-0",
-    profit_loss: "200",
+    profit_loss: "200"
   },
   {
     name: "Hull City v Manchester City",
@@ -28,7 +28,7 @@
     amount: "$200",
     bet: "City -3.5",
     final_score: "1-0",
-    profit_loss: "100",
+    profit_loss: "100"
   }
   ]
 }
