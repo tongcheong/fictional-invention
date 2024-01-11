@@ -22,7 +22,7 @@
   },
   {
     name: 'Wigan v Manchester Utd',
-    date: new Date("2024-01-09 04:00 GMT-0800").toUTCString(),
+    date: '2024-01-09 04:00 GMT',
     league: 'FA Cup',
     handicap: 'Wigan+2',
     amount: '$100',
