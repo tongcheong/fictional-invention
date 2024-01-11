@@ -7,8 +7,8 @@
       "handicap": "Wigan+2",
       "amount": "$100",
       "bet": "Wigan+2",
-      "final_score": "0-0",
-      "profit_loss": "100"
+      "finalscore": "0-0",
+      "profitloss": "100"
     }  
   ]
 }
