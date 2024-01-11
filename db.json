@@ -2,7 +2,7 @@
   "matches": [
   {
     name: "Wigan v Manchester Utd",
-    date: new Date("2024-01-09 04:00 GMT+0800").toUTCString(),
+    date: "2024-01-09 04:00 GMT+0800",
     league: "FA Cup",
     handicap: "Wigan+2",
     amount: "$100",
@@ -12,7 +12,7 @@
   },
   {
     name: "Fulham v Liverpool",
-    date: new Date("2024-01-09 04:00 GMT").toUTCString(),
+    date: "2024-01-09 04:00 GMT",
     league: "FA Cup",
     handicap: "Fulham+1.5",
     amount: "$50",
